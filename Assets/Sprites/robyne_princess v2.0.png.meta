@@ -1,0 +1,1847 @@
+fileFormatVersion: 2
+guid: c1c635d072df0f541876c5bcf91fd2ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2008443070078787118
+    second: robyne_princess v2.0_0
+  - first:
+      213: -215992758164976819
+    second: robyne_princess v2.0_1
+  - first:
+      213: 882576591829674082
+    second: robyne_princess v2.0_2
+  - first:
+      213: 4832151706799076174
+    second: robyne_princess v2.0_3
+  - first:
+      213: -45316856112129881
+    second: robyne_princess v2.0_4
+  - first:
+      213: 7167915180407151285
+    second: robyne_princess v2.0_5
+  - first:
+      213: 4051718567377176427
+    second: robyne_princess v2.0_6
+  - first:
+      213: -6340458454821956858
+    second: robyne_princess v2.0_7
+  - first:
+      213: 5426167641219289714
+    second: robyne_princess v2.0_8
+  - first:
+      213: -5745857850458719475
+    second: robyne_princess v2.0_9
+  - first:
+      213: 7557640914797893753
+    second: robyne_princess v2.0_10
+  - first:
+      213: -812110356484593722
+    second: robyne_princess v2.0_11
+  - first:
+      213: -5889860927988721881
+    second: robyne_princess v2.0_12
+  - first:
+      213: -7517091475561880320
+    second: robyne_princess v2.0_13
+  - first:
+      213: 3706284761452665834
+    second: robyne_princess v2.0_14
+  - first:
+      213: -7804207787142469933
+    second: robyne_princess v2.0_15
+  - first:
+      213: 2433364485195264299
+    second: robyne_princess v2.0_16
+  - first:
+      213: 3077747595264428793
+    second: robyne_princess v2.0_17
+  - first:
+      213: -4664963764239576638
+    second: robyne_princess v2.0_18
+  - first:
+      213: -3816277286780141640
+    second: robyne_princess v2.0_19
+  - first:
+      213: 4963278477529424696
+    second: robyne_princess v2.0_20
+  - first:
+      213: -7045068084535432028
+    second: robyne_princess v2.0_21
+  - first:
+      213: 2899841355297953662
+    second: robyne_princess v2.0_22
+  - first:
+      213: -6562744007226092293
+    second: robyne_princess v2.0_23
+  - first:
+      213: -979987550363172588
+    second: robyne_princess v2.0_24
+  - first:
+      213: 6387969241089261747
+    second: robyne_princess v2.0_25
+  - first:
+      213: 544122798261679837
+    second: robyne_princess v2.0_26
+  - first:
+      213: 2725892452379194059
+    second: robyne_princess v2.0_27
+  - first:
+      213: 9010101122603331017
+    second: robyne_princess v2.0_28
+  - first:
+      213: 6440009330773604798
+    second: robyne_princess v2.0_29
+  - first:
+      213: 4601495832771575581
+    second: robyne_princess v2.0_30
+  - first:
+      213: 7782420098192286428
+    second: robyne_princess v2.0_31
+  - first:
+      213: -7347907431425668999
+    second: robyne_princess v2.0_32
+  - first:
+      213: -8211413671659711862
+    second: robyne_princess v2.0_33
+  - first:
+      213: -7299238516248790006
+    second: robyne_princess v2.0_34
+  - first:
+      213: 9150574978612404094
+    second: robyne_princess v2.0_35
+  - first:
+      213: 1134559859911338646
+    second: robyne_princess v2.0_36
+  - first:
+      213: 1290147237293250321
+    second: robyne_princess v2.0_37
+  - first:
+      213: -2102659677605339444
+    second: robyne_princess v2.0_38
+  - first:
+      213: -1967357002430768174
+    second: robyne_princess v2.0_39
+  - first:
+      213: -5789481398143086234
+    second: robyne_princess v2.0_40
+  - first:
+      213: 4462351240193861191
+    second: robyne_princess v2.0_41
+  - first:
+      213: 2711352500065996211
+    second: robyne_princess v2.0_42
+  - first:
+      213: 1104879993896297290
+    second: robyne_princess v2.0_43
+  - first:
+      213: 7434260783116043947
+    second: robyne_princess v2.0_44
+  - first:
+      213: 7839125718394061439
+    second: robyne_princess v2.0_45
+  - first:
+      213: -5888481854468370698
+    second: robyne_princess v2.0_46
+  - first:
+      213: 1265901705112832544
+    second: robyne_princess v2.0_47
+  - first:
+      213: -6334080625378517696
+    second: robyne_princess v2.0_48
+  - first:
+      213: 6386031119173500499
+    second: robyne_princess v2.0_49
+  - first:
+      213: -5043869926252108060
+    second: robyne_princess v2.0_50
+  - first:
+      213: 4364569701272856287
+    second: robyne_princess v2.0_51
+  - first:
+      213: 2884349293278898761
+    second: robyne_princess v2.0_52
+  - first:
+      213: 2478280586168669325
+    second: robyne_princess v2.0_53
+  - first:
+      213: -2561984531581332161
+    second: robyne_princess v2.0_54
+  - first:
+      213: -277021872340363073
+    second: robyne_princess v2.0_55
+  - first:
+      213: 5725469842699249273
+    second: robyne_princess v2.0_56
+  - first:
+      213: -7561065565962580112
+    second: robyne_princess v2.0_57
+  - first:
+      213: -3968150067148784956
+    second: robyne_princess v2.0_58
+  - first:
+      213: -114689270303203807
+    second: robyne_princess v2.0_59
+  - first:
+      213: 4833344050264731125
+    second: robyne_princess v2.0_60
+  - first:
+      213: -5453070324138990264
+    second: robyne_princess v2.0_61
+  - first:
+      213: 7821413504561591082
+    second: robyne_princess v2.0_62
+  - first:
+      213: -5149657735131749004
+    second: robyne_princess v2.0_63
+  - first:
+      213: -835343990743664655
+    second: robyne_princess v2.0_64
+  - first:
+      213: -5547789935254824709
+    second: robyne_princess v2.0_65
+  - first:
+      213: -5601765742645840686
+    second: robyne_princess v2.0_66
+  - first:
+      213: -3646983171003115621
+    second: robyne_princess v2.0_67
+  - first:
+      213: -4399152096569085522
+    second: robyne_princess v2.0_68
+  - first:
+      213: -6756150081125106382
+    second: robyne_princess v2.0_69
+  - first:
+      213: 1616263877916505118
+    second: robyne_princess v2.0_70
+  - first:
+      213: 5380948248168904850
+    second: robyne_princess v2.0_71
+  - first:
+      213: -4333117715032310974
+    second: robyne_princess v2.0_72
+  - first:
+      213: 650184648139946632
+    second: robyne_princess v2.0_73
+  - first:
+      213: 2914896931343963644
+    second: robyne_princess v2.0_74
+  - first:
+      213: 5182231848920631891
+    second: robyne_princess v2.0_75
+  - first:
+      213: 800962481202454130
+    second: robyne_princess v2.0_76
+  - first:
+      213: -1897083557698004668
+    second: robyne_princess v2.0_77
+  - first:
+      213: -617817639804078479
+    second: robyne_princess v2.0_78
+  - first:
+      213: 9152803224162678245
+    second: robyne_princess v2.0_79
+  - first:
+      213: 8946068609756286600
+    second: robyne_princess v2.0_80
+  - first:
+      213: -6420423297780877945
+    second: robyne_princess v2.0_81
+  - first:
+      213: 8819044119125270067
+    second: robyne_princess v2.0_82
+  - first:
+      213: 6477675639734341498
+    second: robyne_princess v2.0_83
+  - first:
+      213: -7261485239170372246
+    second: robyne_princess v2.0_84
+  - first:
+      213: -1451078378085004860
+    second: robyne_princess v2.0_85
+  - first:
+      213: 8090869632363078458
+    second: robyne_princess v2.0_86
+  - first:
+      213: 5766319123315800577
+    second: robyne_princess v2.0_87
+  - first:
+      213: 6454092448556756241
+    second: robyne_princess v2.0_88
+  - first:
+      213: -2974425591056581346
+    second: robyne_princess v2.0_89
+  - first:
+      213: -8308020976421453466
+    second: robyne_princess v2.0_90
+  - first:
+      213: -4703675427686094312
+    second: robyne_princess v2.0_91
+  - first:
+      213: 6604461598687955378
+    second: robyne_princess v2.0_92
+  - first:
+      213: -6156501249646985370
+    second: robyne_princess v2.0_93
+  - first:
+      213: 4626623061937310272
+    second: robyne_princess v2.0_94
+  - first:
+      213: 5379888115908119986
+    second: robyne_princess v2.0_95
+  - first:
+      213: -6683450855670360835
+    second: robyne_princess v2.0_96
+  - first:
+      213: -2702211266667799409
+    second: robyne_princess v2.0_97
+  - first:
+      213: 4627733810064350564
+    second: robyne_princess v2.0_98
+  - first:
+      213: 5223985023487570021
+    second: robyne_princess v2.0_99
+  - first:
+      213: 2040534294130551381
+    second: robyne_princess v2.0_100
+  - first:
+      213: -4486739068797683254
+    second: robyne_princess v2.0_101
+  - first:
+      213: -2190948217719766629
+    second: robyne_princess v2.0_102
+  - first:
+      213: -2531746715502881088
+    second: robyne_princess v2.0_103
+  - first:
+      213: -7805030625335693348
+    second: robyne_princess v2.0_104
+  - first:
+      213: -2463525111879000675
+    second: robyne_princess v2.0_105
+  - first:
+      213: 4411662518454254759
+    second: robyne_princess v2.0_106
+  - first:
+      213: -192103652584409143
+    second: robyne_princess v2.0_107
+  - first:
+      213: 3481521098171676849
+    second: robyne_princess v2.0_108
+  - first:
+      213: 1606832874559513935
+    second: robyne_princess v2.0_109
+  - first:
+      213: 1357143851153877455
+    second: robyne_princess v2.0_110
+  - first:
+      213: -6339393834418622152
+    second: robyne_princess v2.0_111
+  - first:
+      213: 8178781234502458098
+    second: robyne_princess v2.0_112
+  - first:
+      213: -5761956502227914964
+    second: robyne_princess v2.0_113
+  - first:
+      213: 4697324334342021923
+    second: robyne_princess v2.0_114
+  - first:
+      213: 6461421926938424258
+    second: robyne_princess v2.0_115
+  - first:
+      213: 3102291165453112976
+    second: robyne_princess v2.0_116
+  - first:
+      213: 2643784456640955993
+    second: robyne_princess v2.0_117
+  - first:
+      213: 7875805589004398376
+    second: robyne_princess v2.0_118
+  - first:
+      213: -1659126914381606653
+    second: robyne_princess v2.0_119
+  - first:
+      213: -1457920050660732696
+    second: robyne_princess v2.0_120
+  - first:
+      213: -4916319848583540279
+    second: robyne_princess v2.0_121
+  - first:
+      213: 3441870271786273697
+    second: robyne_princess v2.0_122
+  - first:
+      213: 1276999798346492183
+    second: robyne_princess v2.0_123
+  - first:
+      213: 7787144889268203774
+    second: robyne_princess v2.0_124
+  - first:
+      213: 7357967739144332799
+    second: robyne_princess v2.0_125
+  - first:
+      213: 1819449891609389176
+    second: robyne_princess v2.0_126
+  - first:
+      213: -150598441848628378
+    second: robyne_princess v2.0_127
+  - first:
+      213: -8125979730255207233
+    second: robyne_princess v2.0_128
+  - first:
+      213: 7461511594616201218
+    second: robyne_princess v2.0_129
+  - first:
+      213: 8758327859648910307
+    second: robyne_princess v2.0_130
+  - first:
+      213: 7049169579134284478
+    second: robyne_princess v2.0_131
+  - first:
+      213: -678384974722635347
+    second: robyne_princess v2.0_132
+  - first:
+      213: -3981079968589602333
+    second: robyne_princess v2.0_133
+  - first:
+      213: 6769779928035155003
+    second: robyne_princess v2.0_134
+  - first:
+      213: 2321842901503397619
+    second: robyne_princess v2.0_135
+  - first:
+      213: 5460378376881166948
+    second: robyne_princess v2.0_136
+  - first:
+      213: 7208076189097362995
+    second: robyne_princess v2.0_137
+  - first:
+      213: 733258207928761795
+    second: robyne_princess v2.0_138
+  - first:
+      213: -8972984574489484007
+    second: robyne_princess v2.0_139
+  - first:
+      213: 4502862568432140216
+    second: robyne_princess v2.0_140
+  - first:
+      213: -3077230600163159204
+    second: robyne_princess v2.0_141
+  - first:
+      213: -5720823813255654821
+    second: robyne_princess v2.0_142
+  - first:
+      213: 100079895438602533
+    second: robyne_princess v2.0_143
+  - first:
+      213: -2718025516082680778
+    second: robyne_princess v2.0_144
+  - first:
+      213: 9177957559603952819
+    second: robyne_princess v2.0_145
+  - first:
+      213: -4361092082335726191
+    second: robyne_princess v2.0_146
+  - first:
+      213: -3995509280760496463
+    second: robyne_princess v2.0_147
+  - first:
+      213: 96163103717013338
+    second: robyne_princess v2.0_148
+  - first:
+      213: -8092009290110609606
+    second: robyne_princess v2.0_149
+  - first:
+      213: 7354055318697044595
+    second: robyne_princess v2.0_150
+  - first:
+      213: 7277895925336531145
+    second: robyne_princess v2.0_151
+  - first:
+      213: 6724224657038239743
+    second: robyne_princess v2.0_152
+  - first:
+      213: 1555368703776713086
+    second: robyne_princess v2.0_153
+  - first:
+      213: -6109129101604628034
+    second: robyne_princess v2.0_154
+  - first:
+      213: -4463179489938915706
+    second: robyne_princess v2.0_155
+  - first:
+      213: -6906324541452720663
+    second: robyne_princess v2.0_156
+  - first:
+      213: 8214040559666406442
+    second: robyne_princess v2.0_157
+  - first:
+      213: -5037165011107681424
+    second: robyne_princess v2.0_158
+  - first:
+      213: -1746963492946194400
+    second: robyne_princess v2.0_159
+  - first:
+      213: -5412050379333599255
+    second: robyne_princess v2.0_160
+  - first:
+      213: 5164326789405682880
+    second: robyne_princess v2.0_161
+  - first:
+      213: 759702211745863464
+    second: robyne_princess v2.0_162
+  - first:
+      213: 5165700554231337063
+    second: robyne_princess v2.0_163
+  - first:
+      213: -1469640244186647394
+    second: robyne_princess v2.0_164
+  - first:
+      213: -672819269903421956
+    second: robyne_princess v2.0_165
+  - first:
+      213: -2891440406575656019
+    second: robyne_princess v2.0_166
+  - first:
+      213: 2958091096903532717
+    second: robyne_princess v2.0_167
+  - first:
+      213: -5670005113755364493
+    second: robyne_princess v2.0_168
+  - first:
+      213: 239295483774032898
+    second: robyne_princess v2.0_169
+  - first:
+      213: -7476336266765717002
+    second: robyne_princess v2.0_170
+  - first:
+      213: -5862804760292787728
+    second: robyne_princess v2.0_171
+  - first:
+      213: 3383890727768600836
+    second: robyne_princess v2.0_172
+  - first:
+      213: 6367731450846615097
+    second: robyne_princess v2.0_173
+  - first:
+      213: 6219829290846527422
+    second: robyne_princess v2.0_174
+  - first:
+      213: 1280284092940175766
+    second: robyne_princess v2.0_175
+  - first:
+      213: 492763027872463249
+    second: robyne_princess v2.0_176
+  - first:
+      213: -767679323439245719
+    second: robyne_princess v2.0_177
+  - first:
+      213: 1380226550878401610
+    second: robyne_princess v2.0_178
+  - first:
+      213: 2661260728048261088
+    second: robyne_princess v2.0_179
+  - first:
+      213: 9165309061588829629
+    second: robyne_princess v2.0_180
+  - first:
+      213: 8294801613618636451
+    second: robyne_princess v2.0_181
+  - first:
+      213: 225288672411110240
+    second: robyne_princess v2.0_182
+  - first:
+      213: 1183202885412542318
+    second: robyne_princess v2.0_183
+  - first:
+      213: -4714435555018115761
+    second: robyne_princess v2.0_184
+  - first:
+      213: 8030142653354917687
+    second: robyne_princess v2.0_185
+  - first:
+      213: -6045036701591023488
+    second: robyne_princess v2.0_186
+  - first:
+      213: 7776194155445419657
+    second: robyne_princess v2.0_187
+  - first:
+      213: 2032573035451169947
+    second: robyne_princess v2.0_188
+  - first:
+      213: -4569824875355539265
+    second: robyne_princess v2.0_189
+  - first:
+      213: 2668198396235980345
+    second: robyne_princess v2.0_190
+  - first:
+      213: 3838868518456062763
+    second: robyne_princess v2.0_191
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: robyne_princess v2.0_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1eb504ba39024e0800000000000000
+      internalID: -2008443070078787118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 160
+        width: 22
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b05871bb3a00df0800000000000000
+      internalID: -215992758164976819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 160
+        width: 22
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2682513fbba8f3c00800000000000000
+      internalID: 882576591829674082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 232
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e437e8020604f0340800000000000000
+      internalID: 4832151706799076174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 232
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a859193f800f5ff0800000000000000
+      internalID: -45316856112129881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 160
+        width: 22
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba5c4c11ec897360800000000000000
+      internalID: 7167915180407151285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 160
+        width: 22
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b670f52f1989a3830800000000000000
+      internalID: 4051718567377176427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 232
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6031737e0aa2208a0800000000000000
+      internalID: -6340458454821956858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 208
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272589a78be9d4b40800000000000000
+      internalID: 5426167641219289714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 208
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bb4855abc9240b0800000000000000
+      internalID: -5745857850458719475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 208
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9789c72be5222e860800000000000000
+      internalID: 7557640914797893753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 208
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7e15bfeedcab4f0800000000000000
+      internalID: -812110356484593722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 184
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72797ca11b2034ea0800000000000000
+      internalID: -5889860927988721881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 184
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0056407512deda790800000000000000
+      internalID: -7517091475561880320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 184
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb54d29a5e5f6330800000000000000
+      internalID: 3706284761452665834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 184
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d62906bd52e1b390800000000000000
+      internalID: -7804207787142469933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b217d155b1c05c120800000000000000
+      internalID: 2433364485195264299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 160
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa8c0c912b56ba20800000000000000
+      internalID: 3077747595264428793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 160
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c15e662c28b24fb0800000000000000
+      internalID: -4664963764239576638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_19
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 160
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bff315f60cd90bc0800000000000000
+      internalID: -3816277286780141640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 136
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833ab7e8a7b11e440800000000000000
+      internalID: 4963278477529424696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_21
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 136
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ace2da47e3ea3e90800000000000000
+      internalID: -7045068084535432028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 136
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77958f395e4e3820800000000000000
+      internalID: 2899841355297953662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 136
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf41779a8137ce4a0800000000000000
+      internalID: -6562744007226092293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4114c40e3826662f0800000000000000
+      internalID: -979987550363172588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 112
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b04f3b0e20a6a850800000000000000
+      internalID: 6387969241089261747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 113
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd634985dcc1d8700800000000000000
+      internalID: 544122798261679837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_27
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 113
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2faf73eb054d520800000000000000
+      internalID: 2725892452379194059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_28
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 113
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdae13cb3f4a0d70800000000000000
+      internalID: 9010101122603331017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_29
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 113
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb936fe9d528f5950800000000000000
+      internalID: 6440009330773604798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 113
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f3ac3841ccbdf30800000000000000
+      internalID: 4601495832771575581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 113
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2ac95a8d5b00c60800000000000000
+      internalID: 7782420098192286428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 88
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9788b6b3f1df60a90800000000000000
+      internalID: -7347907431425668999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_33
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 88
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82dfe485c23b0e80800000000000000
+      internalID: -8211413671659711862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 89
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c34241e35e3ba90800000000000000
+      internalID: -7299238516248790006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_35
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 89
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f15c2167f5dfe70800000000000000
+      internalID: 9150574978612404094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 89
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69aae627e24cebf00800000000000000
+      internalID: 1134559859911338646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_37
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 89
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117d0daa31687e110800000000000000
+      internalID: 1290147237293250321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 89
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccedbc0e92ad1d2e0800000000000000
+      internalID: -2102659677605339444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_39
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 89
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db9cb3da3b82b4e0800000000000000
+      internalID: -1967357002430768174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66113f5a751a7afa0800000000000000
+      internalID: -5789481398143086234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 64
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74667c67fc47ded30800000000000000
+      internalID: 4462351240193861191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 65
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd0d43cbb8a0a520800000000000000
+      internalID: 2711352500065996211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 65
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43ef932082555f00800000000000000
+      internalID: 1104879993896297290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 65
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6cf393bcccb2760800000000000000
+      internalID: 7434260783116043947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_45
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 65
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72c182be4b2acc60800000000000000
+      internalID: 7839125718394061439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 65
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe441ea3f8e74ea0800000000000000
+      internalID: -5888481854468370698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_47
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 65
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02acfcdc4e2619110800000000000000
+      internalID: 1265901705112832544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 83
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d11a90b33d818a0800000000000000
+      internalID: -6334080625378517696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 41
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e3deed77dbf9850800000000000000
+      internalID: 6386031119173500499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_50
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 41
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6a7709603900ab0800000000000000
+      internalID: -5043869926252108060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_51
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 41
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd62dc1d401129c30800000000000000
+      internalID: 4364569701272856287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_52
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 41
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aa90a7664470820800000000000000
+      internalID: 2884349293278898761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 41
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d849458001f946220800000000000000
+      internalID: 2478280586168669325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robyne_princess v2.0_54
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 13
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f359c0b74a0027cd0800000000000000
+      internalID: -2561984531581332161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

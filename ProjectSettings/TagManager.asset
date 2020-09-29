@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Chest
+  - Map
+  - ParteBaja
+  - CabezaEnemy
+  - Spikes
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2261958053
+    locked: 0
+  - name: Vida
+    uniqueID: 3115881291
+    locked: 0
+  - name: Map
+    uniqueID: 3093953663
+    locked: 0
+  - name: Enemy
+    uniqueID: 3017750913
+    locked: 0
+  - name: Personaje
+    uniqueID: 1848284847
+    locked: 0
+  - name: UI
+    uniqueID: 3498905923
+    locked: 0
+  - name: PAUSA
+    uniqueID: 1667725301
+    locked: 0
